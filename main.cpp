@@ -1,10 +1,10 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
+//*****************************************************************************
+// Author: Evelyn Zuniga
+// Assignment: Sneaker Collection Management Part 2
+// Description: This program implemented more features to Part 1 such as 
+//              more void functions that allow the user to see the sneakers
+//              by brand, price, size, and year released.
+// *******************************************************************************
 
 #include <iostream>
 #include <string>
